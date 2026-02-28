@@ -14,3 +14,4 @@ __pycache__/
 # Misc
 *.log
 node_modules/
+Instruction.txt
